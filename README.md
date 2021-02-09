@@ -1,4 +1,4 @@
-# TwitterMovieSentiment
+# Twitter Movie Sentiment
 
 ## Business Problem
 The entertainment business provides people with excitement, relaxation, and an outlet for emotions. Specifically, movies are an all around escape from reality. There are many different aspects of a movie. There are the writers, producers, actors, consumers, industy, makeup, PA, and many more . Essentially a movie boils down to trying to please the viewers. Many viewers take to social media outlets, such as twitter to tweet their review. I decided to use the data from Twitter to analyze movie sentiment. 
