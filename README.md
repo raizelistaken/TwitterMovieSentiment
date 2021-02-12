@@ -14,8 +14,8 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 ## Results
 
 <p float="left">
-  <img src="images/barsentinception.jpg" width="420" />
-  <img src="images/VADERinception.jpg" width="420" /> 
+  <img src="images/barsentinception.jpg" width="415" />
+  <img src="images/VADERinception.jpg" width="415" /> 
 </p>
 
 <p float="left">
@@ -24,8 +24,8 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 </p>
 
 <p float="left">
-  <img src="images/barsentbigsick.jpg" width="400" />
-  <img src="images/VADERbigsick.jpg" width="400" /> 
+  <img src="images/barsentbigsick.jpg" width="412" />
+  <img src="images/VADERbigsick.jpg" width="412" /> 
 </p>
 
 ## Summary
