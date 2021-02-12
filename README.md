@@ -13,7 +13,7 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-The following images are bar graphs and kernel density estimate and histograms. These images are based off the VADER score, a score from -1 to 1 that rates the tweet. Negative one being a negative tweet and positive 1 being a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
+The following images are bar graphs, kernel density estimates, and histograms. These images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
 
 <p float="left">
   <img src="images/barsentinception.jpg" width="416" />
