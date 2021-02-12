@@ -14,18 +14,53 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 ## Results
 
 <p float="left">
-  <img src="images/barsentinception.jpg" width="415" />
-  <img src="images/VADERinception.jpg" width="415" /> 
+  <img src="images/barsentinception.jpg" width="418" />
+  <img src="images/VADERinception.jpg" width="418" /> 
 </p>
 
 <p float="left">
-  <img src="images/barsentingridgoeswest.jpg" width="410" />
-  <img src="images/VADERingrid.jpg" width="410" /> 
+  <img src="images/barsentingridgoeswest.jpg" width="415" />
+  <img src="images/VADERingrid.jpg" width="415" /> 
 </p>
 
 <p float="left">
-  <img src="images/barsentbigsick.jpg" width="412" />
-  <img src="images/VADERbigsick.jpg" width="412" /> 
+  <img src="images/barsentbigsick.jpg" width="415" />
+  <img src="images/VADERbigsick.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentgonegirl.jpg" width="415" />
+  <img src="images/VADERgonegirl.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentgonegirl.jpg" width="415" />
+  <img src="images/VADERgonegirl.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentgonegirl.jpg" width="415" />
+  <img src="images/VADERgonegirl.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsent17again.jpg" width="415" />
+  <img src="images/VADER17again.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentjennifersbody.jpg" width="415" />
+  <img src="images/VADERjennifersbody.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentshapewater.jpg" width="415" />
+  <img src="images/VADERtheshapeofwater.jpg" width="415" /> 
+</p>
+
+<p float="left">
+  <img src="images/barsentbigshort.jpg" width="415" />
+  <img src="images/VADERbigshort.jpg" width="415" /> 
 </p>
 
 ## Summary
