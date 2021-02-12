@@ -13,6 +13,11 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-![inception bar](images/barsentinception.jpg "title-1") ![inception](images/VADERinception.jpg "title-2") 
+<p float="left">
+  <img src="images/barsentinception.jpg" width="100" />
+  <img src="images/VADERinception.jpg" width="100" /> 
+</p>
+
+![inception bar](images/barsentinception.jpg) ![inception](images/VADERinception.jpg) 
 
 ## Summary
