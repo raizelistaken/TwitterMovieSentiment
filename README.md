@@ -36,16 +36,6 @@ The following images are bar graphs, kernel density estimates, and histograms. T
 </p>
 
 <p float="left">
-  <img src="images/barsentgonegirl.jpg" width="416" />
-  <img src="images/VADERgonegirl.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentgonegirl.jpg" width="416" />
-  <img src="images/VADERgonegirl.jpg" width="416" /> 
-</p>
-
-<p float="left">
   <img src="images/barsent17again.jpg" width="416" />
   <img src="images/VADER17again.jpg" width="416" /> 
 </p>
@@ -86,17 +76,12 @@ The following images are bar graphs, kernel density estimates, and histograms. T
 </p>
 
 <p float="left">
-  <img src="images/barsentinception.jpg" width="416" />
-  <img src="images/VADERinception.jpg" width="416" /> 
-</p>
-
-<p float="left">
   <img src="images/barsentSilverLiningsPlaybook.jpg" width="416" />
-  <img src="images/VADERsilvermissing.jpg" width="416" /> 
+  <img src="images/VADERbirdbox.jpg" width="416" /> 
 </p>
 
 <p float="left">
-  <img src="images/barsentdjangounchained.jpg" width="416" />
+  <img src="images/barsentddjangounchained.jpg" width="416" />
   <img src="images/VADERdjango.jpg" width="416" /> 
 </p>
 
