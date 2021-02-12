@@ -77,11 +77,11 @@ The following images are bar graphs, kernel density estimates, and histograms. T
 
 <p float="left">
   <img src="images/barsentSilverLiningsPlaybook.jpg" width="416" />
-  <img src="images/VADERbirdbox.jpg" width="416" /> 
+  <img src="images/VADERsilverliningsplaybook.jpg" width="416" /> 
 </p>
 
 <p float="left">
-  <img src="images/barsentddjangounchained.jpg" width="416" />
+  <img src="images/barsentdjangounchained.jpg" width="416" />
   <img src="images/VADERdjango.jpg" width="416" /> 
 </p>
 
