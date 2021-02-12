@@ -13,6 +13,6 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-![inception bar](images/barsentinception.jpg) | ![inception](images/VADERinception.jpg)
+| ![inception bar](images/barsentinception.jpg) | ![inception](images/VADERinception.jpg) |
 
 ## Summary
