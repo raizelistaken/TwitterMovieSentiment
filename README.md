@@ -11,7 +11,14 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Methods
 
-- VADER
+- VADER 
+    - [Jack](https://jackmckew.dev/sentiment-analysis-text-cleaning-in-python-with-vader.html)
+- LDA   
+    - [learningLDA](https://www.youtube.com/watch?v=xvqsFTUsOmc&amp%3Bab_channel=PyOhio) 
+    - [documentation](https://radimrehurek.com/gensim/models/ldamodel.html)
+- TSNE 
+    - [JoshStamer](https://www.youtube.com/watch?v=NEaUSP4YerM) 
+    - [documentation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html#examples-using-sklearn-manifold-tsne)
 
 ## Results
 
