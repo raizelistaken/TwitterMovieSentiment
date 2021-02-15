@@ -110,10 +110,10 @@ Many biases needed to be accounted for when looking at twitter movie sentiment. 
 
 ## Repository Structure
 
-.
-├── images                  # wordclouds, frequency bar graphs, VADER bar char, VADER KDE, for each movie
-├── Twint                   # webscraping of the movie
-├── Vader                   # VADER model
-├── LDA TSNE                # LDA and TSNE models
-└── README.md               # project recap
-.
+    .
+    ├── images                  # wordclouds, frequency bar graphs, VADER bar char, VADER KDE, for each movie
+    ├── Twint                   # webscraping of the movie
+    ├── Vader                   # VADER model
+    ├── LDA TSNE                # LDA and TSNE models
+    └── README.md               # project recap
+    .
