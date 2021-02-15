@@ -106,7 +106,7 @@ The following images are bar graphs, kernel density estimates, and histograms. T
 Many biases needed to be accounted for when looking at twitter movie sentiment. Only a certain group of people will watch a specific movie. Those who like horror movies will watch horror movies. From the specific group only a portion of people take to twitter to write their thoughts. Plus, not all tweets are related to the viewers opinion of the movie. Sometimes viewers tweet about what they're doing while watching the movie, such as, "watching insert-movie-here with mom ... mom hates me." The movie can be good, but the model is going to pick up on the word hate, and the movie will be scored poorly. 
 
 ## Next Steps
-    - perform a more in depth look into each movie
+   - perform a more in depth look into each movie
 
 ## Repository Structure
 
@@ -116,4 +116,3 @@ Many biases needed to be accounted for when looking at twitter movie sentiment. 
     ├── Vader                   # VADER model
     ├── LDA TSNE                # LDA and TSNE models
     └── README.md               # project recap
-    .
