@@ -15,6 +15,8 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
     - [Jack](https://jackmckew.dev/sentiment-analysis-text-cleaning-in-python-with-vader.html)
 - LDA   
     - [learningLDA](https://www.youtube.com/watch?v=xvqsFTUsOmc&amp%3Bab_channel=PyOhio) 
+    - [kagglelearning](https://www.kaggle.com/yohanb/lda-visualized-using-t-sne-and-bokeh)
+    - [learning](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/)
     - [documentation](https://radimrehurek.com/gensim/models/ldamodel.html)
 - TSNE 
     - [JoshStamer](https://www.youtube.com/watch?v=NEaUSP4YerM) 
