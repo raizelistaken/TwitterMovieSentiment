@@ -31,7 +31,7 @@ The following images are bar graphs, kernel density estimates, and histograms. T
   <img src="images/VADERinception.jpg" width="416" /> 
 </p>
 
-![LDAinception](images/lda_inception.html)
+![LDAinception](file:///C:/Users/Raizel/Desktop/Flatiron/phase1/TwitterMovieSentiment/images/lda_inception.html#topic=0&lambda=1&term=)
 
 <p float="left">
   <img src="images/barsentingridgoeswest.jpg" width="416" />
