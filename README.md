@@ -49,6 +49,9 @@ The following images are bar graphs, kernel density estimates, and histograms. T
   <img src="images/VADERhocuspocus.jpg" width="416" /> 
 </p>
 
+![LDAhocuspocus](images/lda_hocuspocus.jpg)
+![tsnehocuspocus](images/tsne_hocuspocus.jpg)
+
 ## Summary
 
 Many biases needed to be accounted for when looking at twitter movie sentiment. Only a certain group of people will watch a specific movie. Those who like horror movies will watch horror movies. From the specific group only a portion of people take to twitter to write their thoughts. Plus, not all tweets are related to the viewers opinion of the movie. Sometimes viewers tweet about what they're doing while watching the movie, such as, "watching insert-movie-here with mom ... mom hates me." The movie can be good, but the model is going to pick up on the word hate, and the movie will be scored poorly. 
