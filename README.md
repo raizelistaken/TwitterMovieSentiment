@@ -26,22 +26,14 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 The following images are bar graphs, kernel density estimates, and histograms. These images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
 
-<p float="left">
-  <img src="images/barsentinception.jpg" width="416" />
-  <img src="images/VADERinception.jpg" width="416" /> 
-</p>
-
-![LDAinception](images/lda_inception.html)
-
-<p float="left">
-  <img src="images/barsentingridgoeswest.jpg" width="416" />
-  <img src="images/VADERingrid.jpg" width="416" /> 
-</p>
 
 <p float="left">
   <img src="images/barsentbigsick.jpg" width="416" />
   <img src="images/VADERbigsick.jpg" width="416" /> 
 </p>
+
+![LDAbigsick](images/lda_bigsick.jpg)
+![tsnebigsick](images/tsne_bigsick.jpg)
 
 <p float="left">
   <img src="images/barsentgonegirl.jpg" width="416" />
