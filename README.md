@@ -35,6 +35,8 @@ The VADER sentiment score reflects a negative overall score based on tweets. Thi
   <img src="images/VADERbigsick.jpg" width="416" /> 
 </p>
 
+After spending countless days wondering why the Big Sick scored so poorly on the VADER test it dawned on me that the word "sick" might be bringing down the score.
+
 Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors since multiple names are brought up. Topic 3 is predominately numbers and words such as billboard and oscar lead me to believe topic 3 is about ratings and winning awards. I could not make sense of topic 4 and 5; the words used seem very random.
 
 ![LDAbigsick](images/lda_bigsick.jpg)
