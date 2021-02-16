@@ -3,7 +3,7 @@
 ![movies](images/birdie.jpg)
 
 ## Business Problem
-The entertainment business provides people with excitement, relaxation, and an outlet for their emotions. Specifically, movies are an all around escape from reality. Many people work in tandem to create a movie. There are the writers, producers, actors, industy, makeup, PA, and many more jobs. Essentially a movie boils down to trying to please the viewers. Many viewers take to social media outlets, such as twitter to tweet their review. I decided to use the data from Twitter to analyze movie sentiment. Movie sentiment can provide insight to what the consumer enjoys. Observing what movies the consumer enjoys creates a feedback loop. Thus, movie makers know what kind of content to create based off previous successful movies.
+The entertainment business provides people with excitement, relaxation, and an outlet for their emotions. Specifically, movies are an all around escape from reality. Many people work in tandem to create a movie. There are the writers, producers, actors, industy, makeup, PA, and many more jobs. Essentially a movie boils down to trying to please the viewers. Many viewers take to social media outlets, such as twitter to tweet their review. Twitter provides a larger sample size for movie reviews than several critics. A larger sample of movie reviews will lead to a better reflection of the movie. Thus, I used data from Twitter to analyze movie sentiment. Observing what movies the consumer enjoys creates a feedback loop. With feedback movie makers know what kind of content to create based off previous successful movies.
 
 
 ## Data
@@ -24,7 +24,7 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-The following images are bar graphs, kernel density estimates, and histograms. These images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
+The following images are bar graphs, kernel density estimates, LDA topic models, and tsne. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
 
 
 <p float="left">
