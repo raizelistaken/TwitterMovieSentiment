@@ -24,8 +24,11 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-The following images are bar graphs, kernel density estimates, LDA topic models, and tsne. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. 
+The following images are bar graphs, kernel density estimates, LDA topic models, and tsne. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. The topic models returned a list of popular words for each topic. It was hard to decipher between topics.
 
+#### Big Sick
+
+The VADER sentiment score reflects a negative overall score based on tweets. This sentiment conflicts with the critics score on rotten tomates [BigSick_RottenTomatoes](https://www.rottentomatoes.com/m/the_big_sick). 
 
 <p float="left">
   <img src="images/barsentbigsick.jpg" width="416" />
