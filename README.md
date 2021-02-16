@@ -35,60 +35,14 @@ The following images are bar graphs, kernel density estimates, and histograms. T
 ![LDAbigsick](images/lda_bigsick.jpg)
 ![tsnebigsick](images/tsne_bigsick.jpg)
 
-<p float="left">
-  <img src="images/barsentgonegirl.jpg" width="416" />
-  <img src="images/VADERgonegirl.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsent17again.jpg" width="416" />
-  <img src="images/VADER17again.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentjennifersbody.jpg" width="416" />
-  <img src="images/VADERjennifersbody.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentshapewater.jpg" width="416" />
-  <img src="images/VADERtheshapeofwater.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentbigshort.jpg" width="416" />
-  <img src="images/VADERbigshort.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentcloudymeatballs.jpg" width="416" />
-  <img src="images/VADERcloudymeatballs.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentwalle.jpg" width="416" />
-  <img src="images/VADERwalle.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentSlumdogMillionaire.jpg" width="416" />
-  <img src="images/VADERslumdogmoney.jpg" width="416" /> 
-</p>
 
 <p float="left">
   <img src="images/barsentBirdBox.jpg" width="416" />
   <img src="images/VADERbirdbox.jpg" width="416" /> 
 </p>
 
-<p float="left">
-  <img src="images/barsentSilverLiningsPlaybook.jpg" width="416" />
-  <img src="images/VADERsilverliningsplaybook.jpg" width="416" /> 
-</p>
-
-<p float="left">
-  <img src="images/barsentdjangounchained.jpg" width="416" />
-  <img src="images/VADERdjango.jpg" width="416" /> 
-</p>
+![LDAbirdbox](images/lda_birdbox.jpg)
+![tsnebirdbox](images/tsne_birdbox.jpg)
 
 <p float="left">
   <img src="images/barsentHocusPocus.jpg" width="416" />
