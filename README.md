@@ -7,7 +7,7 @@ The entertainment business provides people with excitement, relaxation, and an o
 
 
 ## Data
-The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets from 15 movies. The tweets were scraped based on each movies release date. About 5000 tweets were gathered from the time the movie was released until the following year, except for Hocus Pocus. Since Hocus Pocus came out years before twitter, tweets were scraped begin October 2014 to October 2015, the season of Halloween (for a Halloween themed movie). Non-english tweets were removed from the data. The Natural Language Processing packages (NLTK and VaderSentiment) were used. 
+The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets from 15 movies. The tweets were scraped based on each movies release date. About 5000 tweets were gathered from the time the movie was released until the following year, except for Hocus Pocus. Since Hocus Pocus came out years before twitter, tweets were scraped begin October 2014 to October 2015, the season of Halloween (for a Halloween themed movie). Non-english tweets were removed from the data. The natural language processing packages (NLTK and VaderSentiment) were used. The gensim library was used for topic modeling. 
 
 ## Methods
 
@@ -24,7 +24,7 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-The following images are bar graphs, kernel density estimates, LDA topic models, and tsne. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. The topic models returned a list of popular words for each topic. It was hard to decipher between topics.
+The following images are bar graphs, kernel density estimates, LDA topic models, and tsne; from 3 of the 15 movies. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. The topic models returned a list of popular words for each topic. It is challenging to decipher between topics.
 
 #### Big Sick
 
@@ -77,4 +77,5 @@ Many biases needed to be accounted for when looking at twitter movie sentiment. 
     ├── Twint                   # webscraping of the movie
     ├── Vader                   # VADER model
     ├── LDA TSNE                # LDA and TSNE models
+    ├── Deep Dive               # notebook with each tweet for 3 of the 15 movies displayed
     └── README.md               # project recap
