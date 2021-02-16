@@ -35,9 +35,14 @@ The VADER sentiment score reflects a negative overall score based on tweets. Thi
   <img src="images/VADERbigsick.jpg" width="416" /> 
 </p>
 
+Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors since multiple names are brought up. Topic 3 is predominately numbers and words such as billboard and oscar lead me to believe topic 3 is about ratings and winning awards. I could not make sense of topic 4 and 5; the words used seem very random.
+
 ![LDAbigsick](images/lda_bigsick.jpg)
 ![tsnebigsick](images/tsne_bigsick.jpg)
 
+#### Bird Box
+
+The VADER sentiment score seems lean slightly postive. The sentiment here matches the score on rotten tomatoes [BirdBox_RottenTomatoes](https://www.rottentomatoes.com/m/bird_box). 
 
 <p float="left">
   <img src="images/barsentBirdBox.jpg" width="416" />
@@ -46,6 +51,10 @@ The VADER sentiment score reflects a negative overall score based on tweets. Thi
 
 ![LDAbirdbox](images/lda_birdbox.jpg)
 ![tsnebirdbox](images/tsne_birdbox.jpg)
+
+#### Hocus Pocus
+
+Critics rated Hocus Pocus poorly on rotten tomatoes [HocusPocus_RottenTomatoes](https://www.rottentomatoes.com/m/hocus_pocus). According to the positive VADER sentiment collected from tweets, the critics did a terrible job reflecting the overall population. 
 
 <p float="left">
   <img src="images/barsentHocusPocus.jpg" width="416" />
