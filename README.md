@@ -38,10 +38,9 @@ The VADER sentiment score reflects a negative overall score based on tweets. Thi
 After spending countless days wondering why the Big Sick scored so poorly on the VADER test it dawned on me that the word "sick" might be bringing down the score.
 
 Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors since multiple names are brought up. Topic 3 is predominately numbers and words such as billboard and oscar lead me to believe topic 3 is about ratings and awards.
+
 ![LDAbigsick](images/lda_bigsick.jpg)
 ![tsnebigsick](images/tsne_bigsick.jpg)
-
-Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors since multiple names are brought up. Topic 3 is predominately numbers and words like billboard and oscar lead me to believe topic 3 is about ratings and winning awards. I could not make sense of topic 4 and 5. The words used seem very random.
 
 #### Bird Box
 
@@ -52,10 +51,10 @@ The VADER sentiment score seems lean slightly postive. The sentiment here matche
   <img src="images/VADERbirdbox.jpg" width="416" /> 
 </p>
 
+Topic 1 is news related. That is why 'inssurance quotes' and 'Trump' appear. In topic 2, Christmas is mentioned. These must be because Bird Box was released a couple weeks before Christmas. Moviemenfess is a twitter account and Train to Busan, Dilan, and Aladdin are other movies. Therefore topic two must be related to movies and the holidays. Topic 3 encompasses the Irishman, another movie. Topic three seems to be about the movie Bird Box itself because boy and girl refer to two of the characters. Topic three got crossed with anything selling on eBay with the tweets bird and box in them. Topic 4 seems similiar to topic 3. Bobo bird is a type of watch. I imagine it can be purchased online. Christmas is mentioned again. I'm guess topic 4 might relate to Christmas presents. Topic 5 is about the song Bird Box by Skinny Fabulous ft. Travis world and Julius Czar. 
+
 ![LDAbirdbox](images/lda_birdbox.jpg)
 ![tsnebirdbox](images/tsne_birdbox.jpg)
-
-Topic 1 is news related. That is why 'inssurance quotes' and 'Trump' appear. In topic 2, Christmas is mentioned. These must be because Bird Box was released a couple weeks before Christmas. Moviemenfess is a twitter account and Train to Busan, Dilan, and Aladdin are other movies. Therefore topic two must be related to movies and the holidays. Topic 3 encompasses the Irishman, another movie. Topic three seems to be about the movie Bird Box itself because boy and girl refer to two of the characters. Topic three got crossed with anything selling on eBay with the tweets bird and box in them. Topic 4 seems similiar to topic 3. Bobo bird is a type of watch. I imagine it can be purchased online. Christmas is mentioned again. I'm guess topic 4 might relate to Christmas presents. Topic 5 is about the song Bird Box by Skinny Fabulous ft. Travis world and Julius Czar. 
 
 #### Hocus Pocus
 
@@ -66,10 +65,10 @@ Critics rated Hocus Pocus poorly on rotten tomatoes [HocusPocus_RottenTomatoes](
   <img src="images/VADERhocuspocus.jpg" width="416" /> 
 </p>
 
+Ariana Grande revealed she was watching Hocus Pocus. Additionally, topic one enconcompasses other Halloween movies like Halloweentown and Twitch. All these are sweeped up into a fall Halloween movie and chill category. Topic 2 seems to be about the actors/characters in the movie. The word, month, in topic 2, refers to October, when all the Halloween films air. Additionally, the word family appears because this particular movie is a family film. Topic 3 involves youtube and the hashtage #mnsshp which stands for Mickey's Not So Scary Halloween Party. Top words put and spell are referring to the popular song I'll Put a Spell on You, in Hocus Pocus. Topic 4 encompasses a movie showing in Chicago at Irving Park Cementary. The words via and etsy leave me to believe topic 5 is about links relating to Hocus Pocus. When I searched through some of the most popular words in topic 5 the tweet with the searched word would contain a link.
+
 ![LDAhocuspocus](images/lda_hocuspocus.jpg)
 ![tsnehocuspocus](images/tsne_hocuspocus.jpg)
-
-Ariana Grande revealed she was watching Hocus Pocus. Additionally, topic one enconcompasses other Halloween movies like Halloweentown and Twitch. All these are sweeped up into a fall Halloween movie and chill category. Topic 2 seems to be about the actors/characters in the movie. The word, month, in topic 2, refers to October, when all the Halloween films air. Additionally, the word family appears because this particular movie is a family film. Topic 3 involves youtube and the hashtage #mnsshp which stands for Mickey's Not So Scary Halloween Party. Top words put and spell are referring to the popular song I'll Put a Spell on You, in Hocus Pocus. Topic 4 encompasses a movie showing in Chicago at Irving Park Cementary. The words via and etsy leave me to believe topic 5 is about links relating to Hocus Pocus. When I searched through some of the most popular words in topic 5 the tweet with the searched word would contain a link.
 
 ## Summary
 
