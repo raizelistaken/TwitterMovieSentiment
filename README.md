@@ -85,3 +85,5 @@ Many biases needed to be accounted for when looking at twitter movie sentiment. 
     ├── LDA TSNE                # LDA and TSNE models
     ├── Deep Dive               # notebook with each tweet for 3 of the 15 movies displayed
     └── README.md               # project recap
+    
+slide show: https://docs.google.com/presentation/d/1g0dH_UlK5fSa5VZ27MSqfNG_t1k3ruyoScrmZPiK4qo/edit?usp=sharing
