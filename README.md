@@ -3,7 +3,9 @@
 ![movies](images/birdie.jpg)
 
 ## Business Problem
-The entertainment business provides people with excitement, relaxation, and an outlet for their emotions. Specifically, movies are an all around escape from reality. Many people work in tandem to create a movie. There are the writers, producers, actors, industy, makeup, PA, and many more jobs. Essentially a movie boils down to trying to please the viewers. Many viewers take to social media outlets, such as twitter to tweet their review. Twitter provides a larger sample size for movie reviews than several critics. A larger sample of movie reviews will lead to a better reflection of the movie. Thus, I used data from Twitter to analyze movie sentiment. Observing what movies the consumer enjoys creates a feedback loop. With feedback movie makers know what kind of content to create based off previous successful movies.
+The entertainment business provides people with excitement, relaxation, and an outlet for their emotions. Specifically, movies are an all around escape from reality. Many people work in tandem to create a movie. There are the writers, producers, actors, industy, makeup, PA, and many more jobs. Essentially a movie boils down to trying to please the viewers. Many viewers take to social media outlets, such as twitter to tweet their review. Twitter provides a larger sample size for movie reviews than the reviews of several critics. A larger sample of movie reviews will lead to a better reflection of the movie. Thus, I used data from Twitter to analyze movie sentiment, and compared it to the ratings of critics from [RottenTomates](https://www.rottentomatoes.com/). From these reviews observations can be made based about which movies the consumer enjoys. This feedback allows movie makers know what kind of content to creates successful movies based off previous successful movies.
+
+presentation: https://docs.google.com/presentation/d/1g0dH_UlK5fSa5VZ27MSqfNG_t1k3ruyoScrmZPiK4qo/edit?usp=sharing
 
 
 ## Data
@@ -24,18 +26,16 @@ The API [Twint](https://github.com/twintproject/twint) was used to scrape tweets
 
 ## Results
 
-The following images are bar graphs, kernel density estimates, LDA topic models, and tsne; from 3 of the 15 movies. These VADER images are based off the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. The topic models returned a list of popular words for each topic. It is challenging to decipher between topics.
+The following are bar graphs, kernel density estimates, LDA topic models, and tsne; from 3 of the 15 movies. The VADER images are pertain to the VADER score, a tweet rating score from -1 to 1. Negative one being perceived as a negative tweet and positive 1 being associated with a positive tweet. Any score between -.1 and .1 was placed in the neutral category. The topic models returned a list of popular words for each topic. Although, it is challenging to decipher between topics.
 
 #### Big Sick
 
-The VADER sentiment score reflects a negative overall score based on tweets. This sentiment conflicts with the critics score on rotten tomates [BigSick_RottenTomatoes](https://www.rottentomatoes.com/m/the_big_sick). 
+The consumers tweet associated with their VADER sentiment score reflects The Big Sick did poorly. This sentiment conflicts with the critics score on rotten tomates [BigSick_RottenTomatoes](https://www.rottentomatoes.com/m/the_big_sick). The word "sick" might be bringing down the VADER score.
 
 <p float="left">
   <img src="images/barsentbigsick.jpg" width="416" />
   <img src="images/VADERbigsick.jpg" width="416" /> 
 </p>
-
-After spending countless days wondering why the Big Sick scored so poorly on the VADER test it dawned on me that the word "sick" might be bringing down the score.
 
 Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors since multiple names are brought up. Topic 3 is predominately numbers and words such as billboard and oscar lead me to believe topic 3 is about ratings and awards.
 
@@ -44,7 +44,7 @@ Topic 1 seems to be about the movie itself. Topic 2 seems to be about the actors
 
 #### Bird Box
 
-The VADER sentiment score seems lean slightly postive. The sentiment here matches the score on rotten tomatoes [BirdBox_RottenTomatoes](https://www.rottentomatoes.com/m/bird_box). 
+The VADER sentiment score leans slightly postive. The sentiment here matches the score on rotten tomatoes [BirdBox_RottenTomatoes](https://www.rottentomatoes.com/m/bird_box). 
 
 <p float="left">
   <img src="images/barsentBirdBox.jpg" width="416" />
@@ -72,10 +72,14 @@ Ariana Grande revealed she was watching Hocus Pocus. Additionally, topic one enc
 
 ## Summary
 
-Many biases needed to be accounted for when looking at twitter movie sentiment. Only a certain group of people will watch a specific movie. Those who like horror movies will watch horror movies. From the specific group only a portion of people take to twitter to write their thoughts. Plus, not all tweets are related to the viewers opinion of the movie. Sometimes viewers tweet about what they're doing while watching the movie, such as, "watching insert-movie-here with mom ... mom hates me." The movie can be good, but the model is going to pick up on the word hate, and the movie will be scored poorly. 
+Many biases needed to be accounted for when looking at twitter movie sentiment. Only a certain group of people will watch a specific movie. Those who like horror movies will watch horror movies. From the specific group only a portion of people take to twitter to write their thoughts. I assume young children will not be writing their thoughts on twitter. Plus, not all tweets are related to the viewers opinion of the movie. Sometimes viewers tweet about what they're doing while watching the movie, such as, "watching insert-movie-here with mom ... mom hates me." The movie can be good, but the model is going to pick up on the word hate, and the movie will be scored poorly. The critics score on rotten tomatoes did not consistently match the score of tweets provided by the VADER model.
 
 ## Next Steps
-   - perform a more in depth look into each movie
+   - perform a more in depth look into each movie 
+   - extend the timeline and numbre of tweets from twint collection
+   - remove words the skew the VADER score
+   - learn more about LDA and how to analyze topics
+   - increase domain knowledge by watching movies I had not seen (yet)
 
 ## Repository Structure
 
@@ -85,5 +89,3 @@ Many biases needed to be accounted for when looking at twitter movie sentiment. 
     ├── LDA TSNE                # LDA and TSNE models
     ├── Deep Dive               # notebook with each tweet for 3 of the 15 movies displayed
     └── README.md               # project recap
-    
-slide show: https://docs.google.com/presentation/d/1g0dH_UlK5fSa5VZ27MSqfNG_t1k3ruyoScrmZPiK4qo/edit?usp=sharing
